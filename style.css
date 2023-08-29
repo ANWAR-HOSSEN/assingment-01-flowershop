@@ -1,0 +1,147 @@
+
+.first-section{
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    padding-left: 100px;
+    padding-top: 30px;
+  }
+  #make-font-size{
+    font-size: 50px;
+  }
+  button{
+    border-radius: 40px;
+    color: beige;
+    background-color: aqua;
+    padding: 5px;
+  }
+  #flower-feature{
+    text-align: center;
+    padding-top: 50px;
+  }
+  #flower-tree{
+    display: flex;
+    text-align: center;
+  }
+  .foto-size{
+    width: 300px;
+    height: 300px;
+    align-items: center;
+    border-top-style: ;
+  }
+  #Flower{
+    /* text-decoration: crimson; */
+  }
+  #fourth-section{
+    
+    display: flex;
+    align-items: center;
+    /* padding-left: 100px;
+    padding-top: 30px; */
+    padding: 200px;
+  }
+    #off{
+      color: brown;
+    }
+  .latest-deal{ 
+      width: 1200px;
+      height: 400px;
+      padding: 100px;
+
+  }
+   #coupon-deal-position{
+    text-align: center;
+    padding-top: 50px; 
+    /* top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%); */
+   }
+  
+ 
+
+   .first-section{
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    padding-left: 100px;
+    padding-top: 30px;
+  }
+  #make-font-size{
+    font-size: 50px;
+  }
+  button{
+    text-decoration-color: rgb(39, 119, 189);
+  }
+  #flower-feature{
+    text-align: center;
+    padding-top: 50px;
+  }
+  #flower-bookey{
+    display: flex;
+    text-align: center;
+    padding-bottom: 30px;  
+  }
+
+  #flower-tree{
+    float: left;
+  width: 25%;
+  padding: 5px;
+  
+  }
+  .foto-size{
+    width: 300px;
+    height: 300px;
+    align-items: center;
+    border-top-style: ;
+  }
+  
+  
+  #fourth-section{
+    
+    display: flex;
+    align-items: center;
+    /
+    padding: 200px;
+  }
+    #off{
+      color: rgb(166, 12, 35);
+    }
+  .latest-deal{ 
+      width: 1000px;
+      height: 400px;
+      padding: 100px;
+
+  }
+   .coupon-deal-position{
+    text-align: center;
+    position: absolute;
+    
+     
+    
+   }
+  
+   .coupon-deal {
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+   /* padding-left: 50px;
+    padding: 100px;
+    
+    width: 100%; */
+  }
+
+#footter{
+background-color: black ;
+text-align: center;
+    padding-top: 80px;
+    padding-bottom:80px ;
+    color: white;
+}
+#flower-color{
+color: brown;
+}
+#ownership{
+color: gray;
+}
